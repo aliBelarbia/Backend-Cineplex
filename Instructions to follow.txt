@@ -1,0 +1,10 @@
+1- Create a MYSql database "no tables", named db_cinema_montreal.
+
+2- I used an EsayPHP account: Username: admin Password: empty.
+
+3- Location of images used in this application:
+for the application to read the images without error,
+we must put the images in this following path:
+
+c: \ Users \ the-active-session \ cinema \ images
+in my case my active session is admin.
